@@ -68,3 +68,5 @@ Resets a context to the initial state
 ## License
 
 MIT, see [LICENSE.md](http://github.com/vorg/webgl-debug/blob/master/LICENSE.md) for details.
+
+Thanks to [WebGL Debug Utils](https://github.com/vorg/webgl-debug)
